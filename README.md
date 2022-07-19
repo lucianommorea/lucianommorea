@@ -1,6 +1,3 @@
- <img src='./images/portada.png' width='100%'>
-
- 
  ### Hola, mi nombre es **Luciano!** 👋 
 
 
