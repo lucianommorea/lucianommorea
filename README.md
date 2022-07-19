@@ -1,10 +1,8 @@
- <img src='./images/portada.png'>
+ <img src='./images/portada.png' width='100%'>
 
- <br>
  
  ### Hola, mi nombre es **Luciano!** 👋 
 
-<br>
 
  Tengo 30 años, y soy de Mar del Plata, Buenos Aires, Argentina. Soy Full Stack Developer, recien graduado de SoyHenry, y me gustan los desafíos, aprender nuevas tecnologías, y aplicarlas en proyectos! <br>
 
