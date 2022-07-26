@@ -8,8 +8,6 @@
 - Front-end: **React, Redux, HTML, CSS, Bootstrap, MUI**
 - Back-end: **NodeJS, Express, PostgreSQL, Sequelize**
 
-- :books: Aprendiendo **Typescript and React Native**
-
 ## 💻 Projectos
 * [Countries APP](https://pic-ountries.vercel.app/)
 * [CoDebug](https://codebug-ten.vercel.app/)
